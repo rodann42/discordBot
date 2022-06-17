@@ -1,0 +1,10 @@
+{
+    "name": "tutle-manager",
+    "version": "1.0.0",
+    "description": "bot created for Morally Red",
+    "main": "bot.js",
+    "author": "rodann42",
+    "dependencies": {
+        "discord.js": "^13.8.0"
+    }
+}
